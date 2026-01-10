@@ -1,6 +1,11 @@
-## Case study – Select the AI tool for business challenges
+---
+casestudy:
+    title: 'Select the AI tool for business challenges'
+    module: ''
+---
+# Case study – Select the AI tool for business challenges
 
-Designing and Implementing AI Workloads for a Global Retail Organization
+## Designing and Implementing AI Workloads for a Global Retail Organization
 
 Contoso Retail Group is a mid-sized, global retail organization operating both e-commerce and physical storefronts across North America and Europe. The company is experiencing rapid growth and is under increasing pressure to improve customer experiences, streamline internal operations, and optimize inventory management—all while meeting strict security, governance, and compliance requirements.
 
